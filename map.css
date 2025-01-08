@@ -1,0 +1,14 @@
+.center-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.slide1 {
+    flex: 1;
+}
+.slide2 {
+    flex: 1;
+    text-align: center;
+    width: max-content;
+    height: max-content;
+}
